@@ -1,0 +1,1116 @@
+,book,id,level,level_label,seed,word,word_count
+0,Gospel of Buddha,0,0,Level 0,god,god,16
+1,Gospel of Buddha,1,1,Level 1,god,personal,5
+2,Gospel of Buddha,2,2,Level 2,god,title,0
+3,Gospel of Buddha,4,2,Level 2,god,london,0
+4,Gospel of Buddha,5,2,Level 2,god,created,0
+5,Gospel of Buddha,6,2,Level 2,god,chinese,0
+6,Gospel of Buddha,7,1,Level 1,god,tyrant,5
+7,Gospel of Buddha,8,2,Level 2,god,hunter,0
+8,Gospel of Buddha,9,2,Level 2,god,hungry,0
+9,Gospel of Buddha,10,2,Level 2,god,satisfy,0
+10,Gospel of Buddha,11,2,Level 2,god,dog,0
+11,Gospel of Buddha,12,2,Level 2,god,assuming,0
+12,Gospel of Buddha,13,1,Level 1,god,tempter,5
+13,Gospel of Buddha,14,2,Level 2,god,certainly,0
+14,Gospel of Buddha,15,2,Level 2,god,else,0
+15,Gospel of Buddha,16,2,Level 2,god,idle,0
+16,Gospel of Buddha,18,2,Level 2,god,layman,0
+17,Gospel of Buddha,19,1,Level 1,god,rolling,5
+18,Gospel of Buddha,20,2,Level 2,god,set,0
+19,Gospel of Buddha,21,2,Level 2,god,point,0
+20,Gospel of Buddha,22,2,Level 2,god,moved,0
+21,Gospel of Buddha,23,2,Level 2,god,wheel,0
+22,Gospel of Buddha,24,2,Level 2,god,cripple,0
+23,Gospel of Buddha,25,1,Level 1,god,rank,8
+24,Gospel of Buddha,26,2,Level 2,god,xiv,0
+25,Gospel of Buddha,27,2,Level 2,god,appointed,0
+26,Gospel of Buddha,29,2,Level 2,god,prominent,0
+27,Gospel of Buddha,30,2,Level 2,god,buddhistic,0
+28,Gita,0,0,Level 0,god,god,25
+29,Gita,1,1,Level 1,god,revealed,6
+30,Gita,2,2,Level 2,god,serve,0
+31,Gita,3,2,Level 2,god,shining,0
+32,Gita,4,2,Level 2,god,secret,0
+33,Gita,5,2,Level 2,god,manifold,0
+34,Gita,7,1,Level 1,god,pritha,9
+35,Gita,8,2,Level 2,god,tamas,0
+36,Gita,9,2,Level 2,god,son,0
+37,Gita,10,2,Level 2,god,splendour,0
+38,Gita,11,2,Level 2,god,gaze,0
+39,Gita,12,2,Level 2,god,saying,0
+40,Gita,13,1,Level 1,god,gaze,6
+41,Gita,15,2,Level 2,god,seems,0
+42,Gita,16,2,Level 2,god,clear,0
+43,Gita,17,2,Level 2,god,shines,0
+44,Gita,18,2,Level 2,god,intent,0
+45,Gita,19,1,Level 1,god,eternal,12
+46,Gita,20,2,Level 2,god,name,0
+47,Gita,21,2,Level 2,god,highest,0
+48,Gita,23,2,Level 2,god,worshipping,0
+49,Gita,24,2,Level 2,god,days,0
+50,Gita,25,1,Level 1,god,days,6
+51,Gita,26,2,Level 2,god,slayer,0
+52,Gita,27,2,Level 2,god,ancient,0
+53,Gita,28,2,Level 2,god,dread,0
+54,Gita,29,2,Level 2,god,nigh,0
+55,Gita,30,2,Level 2,god,bright,0
+56,King James Bible,0,0,Level 0,god,god,4467
+57,King James Bible,1,1,Level 1,god,lord,7944
+58,King James Bible,3,2,Level 2,god,israel,0
+59,King James Bible,4,2,Level 2,god,hosts,0
+60,King James Bible,5,2,Level 2,god,saying,0
+61,King James Bible,6,2,Level 2,god,people,0
+62,King James Bible,7,1,Level 1,god,truth,237
+63,King James Bible,9,2,Level 2,god,righteousness,0
+64,King James Bible,10,2,Level 2,god,christ,0
+65,King James Bible,11,2,Level 2,god,jesus,0
+66,King James Bible,12,2,Level 2,god,salvation,0
+67,King James Bible,13,1,Level 1,god,salvation,164
+68,King James Bible,16,2,Level 2,god,shield,0
+69,King James Bible,17,2,Level 2,god,hope,0
+70,King James Bible,18,2,Level 2,god,strength,0
+71,King James Bible,19,1,Level 1,god,christ,570
+72,King James Bible,21,2,Level 2,god,grace,0
+73,King James Bible,22,2,Level 2,god,gospel,0
+74,King James Bible,23,2,Level 2,god,faith,0
+75,King James Bible,24,2,Level 2,god,saviour,0
+76,King James Bible,25,1,Level 1,god,spirit,505
+77,King James Bible,27,2,Level 2,god,naioth,0
+78,King James Bible,29,2,Level 2,god,overwhelmed,0
+79,King James Bible,30,2,Level 2,god,mind,0
+80,Quran,0,0,Level 0,god,god,3275
+81,Quran,1,1,Level 1,god,lord,944
+82,Quran,2,2,Level 2,god,thy,0
+83,Quran,4,2,Level 2,god,'',0
+84,Quran,5,2,Level 2,god,``,0
+85,Quran,6,2,Level 2,god,-he,0
+86,Quran,7,1,Level 1,god,earth,411
+87,Quran,8,2,Level 2,god,heavens,0
+88,Quran,9,2,Level 2,god,heaven,0
+89,Quran,12,2,Level 2,god,praiseth,0
+90,Quran,13,1,Level 1,god,'',1697
+91,Quran,16,2,Level 2,god,people,0
+92,Quran,18,2,Level 2,god,surely,0
+93,Quran,19,1,Level 1,god,praiseth,5
+94,Quran,20,2,Level 2,god,mecca.-8,0
+95,Quran,21,2,Level 2,god,maker,0
+96,Quran,22,2,Level 2,god,ordinance,0
+97,Quran,23,2,Level 2,god,ha,0
+98,Quran,25,1,Level 1,god,believe,449
+99,Quran,26,2,Level 2,god,sent,0
+100,Quran,27,2,Level 2,god,mim.2,0
+101,Quran,29,2,Level 2,god,lucid,0
+102,Quran,30,2,Level 2,god,right,0
+103,Mahabharata,0,0,Level 0,god,god,450
+104,Mahabharata,1,1,Level 1,god,deity,110
+105,Mahabharata,3,2,Level 2,god,supreme,0
+106,Mahabharata,4,2,Level 2,god,boon-giving,0
+107,Mahabharata,5,2,Level 2,god,vayu,0
+108,Mahabharata,6,2,Level 2,god,presiding,0
+109,Mahabharata,7,1,Level 1,god,siva,50
+110,Mahabharata,9,2,Level 2,god,rudra,0
+111,Mahabharata,10,2,Level 2,god,pinaka,0
+112,Mahabharata,11,2,Level 2,god,uma,0
+113,Mahabharata,12,2,Level 2,god,vishnu,0
+114,Mahabharata,13,1,Level 1,god,rudra,73
+115,Mahabharata,15,2,Level 2,god,skanda,0
+116,Mahabharata,17,2,Level 2,god,fire-god,0
+117,Mahabharata,18,2,Level 2,god,associated,0
+118,Mahabharata,19,1,Level 1,god,justice,53
+119,Mahabharata,21,2,Level 2,god,truth.,0
+120,Mahabharata,22,2,Level 2,god,illustrious,0
+121,Mahabharata,23,2,Level 2,god,dharma,0
+122,Mahabharata,24,2,Level 2,god,sudra,0
+123,Mahabharata,25,1,Level 1,god,agni,196
+124,Mahabharata,26,2,Level 2,god,indra,0
+125,Mahabharata,27,2,Level 2,god,eater,0
+126,Mahabharata,28,2,Level 2,god,carrier,0
+127,Meditation,0,0,Level 0,god,god,49
+128,Meditation,1,1,Level 1,god,embrace,6
+129,Meditation,2,2,Level 2,god,approve,0
+130,Meditation,3,2,Level 2,god,happen,0
+131,Meditation,4,2,Level 2,god,inclination,0
+132,Meditation,6,2,Level 2,god,kept,0
+133,Meditation,7,1,Level 1,god,appointment,8
+134,Meditation,8,2,Level 2,god,happened,0
+135,Meditation,9,2,Level 2,god,fugitive,0
+136,Meditation,10,2,Level 2,god,afraid,0
+137,Meditation,11,2,Level 2,god,order,0
+138,Meditation,12,2,Level 2,god,vanity,0
+139,Meditation,13,1,Level 1,god,approve,5
+140,Meditation,14,2,Level 2,god,advice,0
+141,Meditation,16,2,Level 2,god,send,0
+142,Meditation,17,2,Level 2,god,forbear,0
+143,Meditation,18,2,Level 2,god,grow,0
+144,Meditation,19,1,Level 1,god,charitable,7
+145,Meditation,21,2,Level 2,god,error,0
+146,Meditation,22,2,Level 2,god,minds,0
+147,Meditation,23,2,Level 2,god,reservation,0
+148,Meditation,24,2,Level 2,god,transgress,0
+149,Meditation,25,1,Level 1,god,carefully,8
+150,Meditation,26,2,Level 2,god,observe,0
+151,Meditation,27,2,Level 2,god,dispositions,0
+152,Meditation,28,2,Level 2,god,although,0
+153,Meditation,29,2,Level 2,god,inclinations,0
+154,Meditation,30,2,Level 2,god,rectify,0
+155,Gospel of Buddha,0,0,Level 0,love,love,67
+156,Gospel of Buddha,1,1,Level 1,love,secrecy,6
+157,Gospel of Buddha,2,2,Level 2,love,claim,0
+158,Gospel of Buddha,3,2,Level 2,love,seek,0
+159,Gospel of Buddha,4,2,Level 2,love,possession,0
+160,Gospel of Buddha,5,2,Level 2,love,disciples,0
+161,Gospel of Buddha,6,2,Level 2,love,priests,0
+162,Gospel of Buddha,7,1,Level 1,love,filled,23
+163,Gospel of Buddha,8,2,Level 2,love,dark,0
+164,Gospel of Buddha,9,2,Level 2,love,vanished,0
+165,Gospel of Buddha,11,2,Level 2,love,around,0
+166,Gospel of Buddha,12,2,Level 2,love,gave,0
+167,Gospel of Buddha,13,1,Level 1,love,grow,10
+168,Gospel of Buddha,14,2,Level 2,love,seed,0
+169,Gospel of Buddha,15,2,Level 2,love,passions,0
+170,Gospel of Buddha,16,2,Level 2,love,aspirations,0
+171,Gospel of Buddha,17,2,Level 2,love,except,0
+172,Gospel of Buddha,18,2,Level 2,love,faults,0
+173,Gospel of Buddha,19,1,Level 1,love,dark,5
+174,Gospel of Buddha,20,2,Level 2,love,torch,0
+175,Gospel of Buddha,21,2,Level 2,love,carry,0
+176,Gospel of Buddha,22,2,Level 2,love,blow,0
+177,Gospel of Buddha,23,2,Level 2,love,light,0
+178,Gospel of Buddha,24,2,Level 2,love,strange,0
+179,Gospel of Buddha,25,1,Level 1,love,beyond,8
+180,Gospel of Buddha,26,2,Level 2,love,hence,0
+181,Gospel of Buddha,27,2,Level 2,love,follows,0
+182,Gospel of Buddha,28,2,Level 2,love,inheritance,0
+183,Gospel of Buddha,29,2,Level 2,love,saviour,0
+184,Gospel of Buddha,30,2,Level 2,love,success,0
+185,Gita,0,0,Level 0,love,love,29
+186,Gita,1,1,Level 1,love,always,7
+187,Gita,2,2,Level 2,love,separate,0
+188,Gita,3,2,Level 2,love,doeth,0
+189,Gita,4,2,Level 2,love,fast,0
+190,Gita,5,2,Level 2,love,hand,0
+191,Gita,6,2,Level 2,love,hearing,0
+192,Gita,7,1,Level 1,love,joys,5
+193,Gita,8,2,Level 2,love,heat,0
+194,Gita,9,2,Level 2,love,white,0
+195,Gita,10,2,Level 2,love,dwelling,0
+196,Gita,11,2,Level 2,love,sure,0
+197,Gita,12,2,Level 2,love,anger,0
+198,Gita,13,1,Level 1,love,water,5
+199,Gita,14,2,Level 2,love,moon,0
+200,Gita,15,2,Level 2,love,taste,0
+201,Gita,16,2,Level 2,love,air,0
+202,Gita,17,2,Level 2,love,manifest,0
+203,Gita,18,2,Level 2,love,offering,0
+204,Gita,19,1,Level 1,love,gold,6
+205,Gita,21,2,Level 2,love,seen,0
+206,Gita,22,2,Level 2,love,word,0
+207,Gita,23,2,Level 2,love,sun,0
+208,Gita,24,2,Level 2,love,show,0
+209,Gita,25,1,Level 1,love,meditation,10
+210,Gita,26,2,Level 2,love,heedless,0
+211,Gita,27,2,Level 2,love,steadfastly,0
+212,Gita,28,2,Level 2,love,vowed,0
+213,Gita,29,2,Level 2,love,sake,0
+214,Gita,30,2,Level 2,love,profit,0
+215,King James Bible,0,0,Level 0,love,love,311
+216,King James Bible,1,1,Level 1,love,abound,19
+217,King James Bible,2,2,Level 2,love,christ,0
+218,King James Bible,4,2,Level 2,love,believing,0
+219,King James Bible,5,2,Level 2,love,always,0
+220,King James Bible,6,2,Level 2,love,grace,0
+221,King James Bible,7,1,Level 1,love,hate,87
+222,King James Bible,8,2,Level 2,love,wrongfully,0
+223,King James Bible,10,2,Level 2,love,abhor,0
+224,King James Bible,11,2,Level 2,love,enemies,0
+225,King James Bible,12,2,Level 2,love,hatest,0
+226,King James Bible,13,1,Level 1,love,commandments,171
+227,King James Bible,14,2,Level 2,love,statutes,0
+228,King James Bible,15,2,Level 2,love,keep,0
+229,King James Bible,16,2,Level 2,love,judgments,0
+230,King James Bible,17,2,Level 2,love,observe,0
+231,King James Bible,18,2,Level 2,love,testimonies,0
+232,King James Bible,19,1,Level 1,love,keepeth,46
+233,King James Bible,20,2,Level 2,love,preserveth,0
+234,King James Bible,22,2,Level 2,love,covetous,0
+235,King James Bible,24,2,Level 2,love,getteth,0
+236,King James Bible,25,1,Level 1,love,patience,34
+237,King James Bible,26,2,Level 2,love,faith,0
+238,King James Bible,27,2,Level 2,love,longsuffering,0
+239,King James Bible,28,2,Level 2,love,hope,0
+240,King James Bible,29,2,Level 2,love,antioch,0
+241,King James Bible,30,2,Level 2,love,persecutions,0
+242,Quran,0,0,Level 0,love,love,34
+243,Quran,1,1,Level 1,love,neglect,7
+244,Quran,2,2,Level 2,love,rear,0
+245,Quran,4,2,Level 2,love,seal,0
+246,Quran,5,2,Level 2,love,prayed,0
+247,Quran,6,2,Level 2,love,arms,0
+248,Quran,7,1,Level 1,love,pleasures,6
+249,Quran,8,2,Level 2,love,awhile,0
+250,Quran,9,2,Level 2,love,treasures,0
+251,Quran,10,2,Level 2,love,stated,0
+252,Quran,11,2,Level 2,love,repose,0
+253,Quran,12,2,Level 2,love,wage,0
+254,Quran,13,1,Level 1,love,prince,8
+255,Quran,14,2,Level 2,love,truthful,0
+256,Quran,15,2,Level 2,love,wife,0
+257,Quran,16,2,Level 2,love,tract,0
+258,Quran,17,2,Level 2,love,keepers,0
+259,Quran,18,2,Level 2,love,182,0
+260,Quran,19,1,Level 1,love,praised,5
+261,Quran,20,2,Level 2,love,repented,0
+262,Quran,21,2,Level 2,love,issue,0
+263,Quran,22,2,Level 2,love,fled,0
+264,Quran,23,2,Level 2,love,pp,0
+265,Quran,24,2,Level 2,love,djelal,0
+266,Quran,25,1,Level 1,love,stronger,5
+267,Quran,26,2,Level 2,love,prowess,0
+268,Quran,27,2,Level 2,love,parables,0
+269,Quran,28,2,Level 2,love,oaths,0
+270,Quran,29,2,Level 2,love,idol,0
+271,Quran,30,2,Level 2,love,along,0
+272,Mahabharata,0,0,Level 0,love,love,83
+273,Mahabharata,1,1,Level 1,love,affection,132
+274,Mahabharata,3,2,Level 2,love,moved,0
+275,Mahabharata,4,2,Level 2,love,tears,0
+276,Mahabharata,5,2,Level 2,love,fraternal,0
+277,Mahabharata,6,2,Level 2,love,liberated,0
+278,Mahabharata,7,1,Level 1,love,covet,6
+279,Mahabharata,8,2,Level 2,love,need,0
+280,Mahabharata,9,2,Level 2,love,awaken,0
+281,Mahabharata,10,2,Level 2,love,comforting,0
+282,Mahabharata,11,2,Level 2,love,heir-apparent,0
+283,Mahabharata,12,2,Level 2,love,despoiled,0
+284,Mahabharata,13,1,Level 1,love,heart,497
+285,Mahabharata,14,2,Level 2,love,glad,0
+286,Mahabharata,15,2,Level 2,love,mind,0
+287,Mahabharata,16,2,Level 2,love,hearts,0
+288,Mahabharata,17,2,Level 2,love,springeth,0
+289,Mahabharata,18,2,Level 2,love,cheerful,0
+290,Mahabharata,19,1,Level 1,love,tortured,11
+291,Mahabharata,20,2,Level 2,love,pangs,0
+292,Mahabharata,21,2,Level 2,love,feeleth,0
+293,Mahabharata,22,2,Level 2,love,agni,0
+294,Mahabharata,23,2,Level 2,love,pleasantly,0
+295,Mahabharata,24,2,Level 2,love,kindled,0
+296,Mahabharata,25,1,Level 1,love,husband,303
+297,Mahabharata,26,2,Level 2,love,wife,0
+298,Mahabharata,27,2,Level 2,love,lady,0
+299,Mahabharata,28,2,Level 2,love,woman,0
+300,Mahabharata,29,2,Level 2,love,girl,0
+301,Mahabharata,30,2,Level 2,love,damsel,0
+302,Meditation,0,0,Level 0,love,love,40
+303,Meditation,1,1,Level 1,love,loving,9
+304,Meditation,2,2,Level 2,love,family,0
+305,Meditation,3,2,Level 2,love,brother,0
+306,Meditation,4,2,Level 2,love,possess,0
+307,Meditation,5,2,Level 2,love,meek,0
+308,Meditation,6,2,Level 2,love,wrong,0
+309,Meditation,7,1,Level 1,love,indeed,57
+310,Meditation,8,2,Level 2,love,clear,0
+311,Meditation,9,2,Level 2,love,deliberated,0
+312,Meditation,11,2,Level 2,love,continuance,0
+313,Meditation,12,2,Level 2,love,worthy,0
+314,Meditation,13,1,Level 1,love,ignorance,12
+315,Meditation,14,2,Level 2,love,proceeds,0
+316,Meditation,15,2,Level 2,love,error,0
+317,Meditation,16,2,Level 2,love,ignorant,0
+318,Meditation,17,2,Level 2,love,amiss,0
+319,Meditation,18,2,Level 2,love,wills,0
+320,Meditation,19,1,Level 1,love,masters,6
+321,Meditation,20,2,Level 2,love,property,0
+322,Meditation,21,2,Level 2,love,reduce,0
+323,Meditation,22,2,Level 2,love,friends,0
+324,Meditation,23,2,Level 2,love,kinsmen,0
+325,Meditation,24,2,Level 2,love,affection,0
+326,Meditation,25,1,Level 1,love,rain,6
+327,Meditation,26,2,Level 2,love,sun,0
+328,Meditation,27,2,Level 2,love,poet,0
+329,Meditation,28,2,Level 2,love,took,0
+330,Meditation,29,2,Level 2,love,belong,0
+331,Meditation,30,2,Level 2,love,reputation,0
+332,Gospel of Buddha,0,0,Level 0,faith,faith,60
+333,Gospel of Buddha,1,1,Level 1,faith,crossed,8
+334,Gospel of Buddha,2,2,Level 2,faith,shore,0
+335,Gospel of Buddha,3,2,Level 2,faith,muni,0
+336,Gospel of Buddha,4,2,Level 2,faith,river,0
+337,Gospel of Buddha,5,2,Level 2,faith,waters,0
+338,Gospel of Buddha,6,2,Level 2,faith,cut,0
+339,Gospel of Buddha,7,1,Level 1,faith,understanding,17
+340,Gospel of Buddha,9,2,Level 2,faith,discovered,0
+341,Gospel of Buddha,10,2,Level 2,faith,lineage,0
+342,Gospel of Buddha,11,2,Level 2,faith,language,0
+343,Gospel of Buddha,13,1,Level 1,faith,lineage,5
+344,Gospel of Buddha,14,2,Level 2,faith,main,0
+345,Gospel of Buddha,15,2,Level 2,faith,rivers,0
+346,Gospel of Buddha,16,2,Level 2,faith,ocean,0
+347,Gospel of Buddha,17,2,Level 2,faith,persons,0
+348,Gospel of Buddha,18,2,Level 2,faith,names,0
+349,Gospel of Buddha,19,1,Level 1,faith,community,11
+350,Gospel of Buddha,20,2,Level 2,faith,founded,0
+351,Gospel of Buddha,21,2,Level 2,faith,permission,0
+352,Gospel of Buddha,22,2,Level 2,faith,sage,0
+353,Gospel of Buddha,23,2,Level 2,faith,conditions,0
+354,Gospel of Buddha,24,2,Level 2,faith,arise,0
+355,Gospel of Buddha,25,1,Level 1,faith,possessed,5
+356,Gospel of Buddha,26,2,Level 2,faith,supreme,0
+357,Gospel of Buddha,27,2,Level 2,faith,virtues,0
+358,Gospel of Buddha,28,2,Level 2,faith,efficacy,0
+359,Gospel of Buddha,29,2,Level 2,faith,believing,0
+360,Gospel of Buddha,30,2,Level 2,faith,beloved,0
+361,Gita,0,0,Level 0,faith,faith,41
+362,Gita,1,1,Level 1,faith,offering,5
+363,Gita,2,2,Level 2,faith,divinest,0
+364,Gita,3,2,Level 2,faith,water,0
+365,Gita,4,2,Level 2,faith,bring,0
+366,Gita,5,2,Level 2,faith,happiness,0
+367,Gita,6,2,Level 2,faith,teaching,0
+368,Gita,7,1,Level 1,faith,perish,5
+369,Gita,8,2,Level 2,faith,infinite,0
+370,Gita,9,2,Level 2,faith,endless,0
+371,Gita,10,2,Level 2,faith,indian,0
+372,Gita,11,2,Level 2,faith,grace,0
+373,Gita,12,2,Level 2,faith,thyself,0
+374,Gita,13,1,Level 1,faith,threefold,15
+375,Gita,14,2,Level 2,faith,mankind,0
+376,Gita,15,2,Level 2,faith,writ,0
+377,Gita,16,2,Level 2,faith,drink,0
+378,Gita,17,2,Level 2,faith,lust,0
+379,Gita,18,2,Level 2,faith,bhagavad-gita,0
+380,Gita,19,1,Level 1,faith,surely,6
+381,Gita,20,2,Level 2,faith,shalt,0
+382,Gita,21,2,Level 2,faith,fail,0
+383,Gita,22,2,Level 2,faith,rise,0
+384,Gita,23,2,Level 2,faith,victory,0
+385,Gita,24,2,Level 2,faith,rest,0
+386,Gita,25,1,Level 1,faith,uttermost,8
+387,Gita,26,2,Level 2,faith,undivided,0
+388,Gita,27,2,Level 2,faith,purusha,0
+389,Gita,29,2,Level 2,faith,sure,0
+390,Gita,30,2,Level 2,faith,shows,0
+391,King James Bible,0,0,Level 0,faith,faith,247
+392,King James Bible,1,1,Level 1,faith,christ,570
+393,King James Bible,2,2,Level 2,faith,jesus,0
+394,King James Bible,3,2,Level 2,faith,grace,0
+395,King James Bible,4,2,Level 2,faith,gospel,0
+396,King James Bible,6,2,Level 2,faith,saviour,0
+397,King James Bible,7,1,Level 1,faith,hope,129
+398,King James Bible,9,2,Level 2,faith,salvation,0
+399,King James Bible,11,2,Level 2,faith,patience,0
+400,King James Bible,12,2,Level 2,faith,promise,0
+401,King James Bible,13,1,Level 1,faith,patience,34
+402,King James Bible,15,2,Level 2,faith,longsuffering,0
+403,King James Bible,17,2,Level 2,faith,antioch,0
+404,King James Bible,18,2,Level 2,faith,persecutions,0
+405,King James Bible,19,1,Level 1,faith,jesus,983
+406,King James Bible,21,2,Level 2,faith,disciples,0
+407,King James Bible,22,2,Level 2,faith,john,0
+408,King James Bible,23,2,Level 2,faith,peter,0
+409,King James Bible,24,2,Level 2,faith,synagogue,0
+410,King James Bible,25,1,Level 1,faith,preached,61
+411,King James Bible,27,2,Level 2,faith,preach,0
+412,King James Bible,29,2,Level 2,faith,preaching,0
+413,King James Bible,30,2,Level 2,faith,gentiles,0
+414,Quran,0,0,Level 0,faith,faith,108
+415,Quran,1,1,Level 1,faith,always,7
+416,Quran,2,2,Level 2,faith,affirm,0
+417,Quran,3,2,Level 2,faith,nature,0
+418,Quran,4,2,Level 2,faith,modern,0
+419,Quran,5,2,Level 2,faith,explain,0
+420,Quran,6,2,Level 2,faith,ullm,0
+421,Quran,7,1,Level 1,faith,wise,110
+422,Quran,8,2,Level 2,faith,knowing,0
+423,Quran,9,2,Level 2,faith,ordinance,0
+424,Quran,10,2,Level 2,faith,cognisant,0
+425,Quran,11,2,Level 2,faith,praiseworthy,0
+426,Quran,12,2,Level 2,faith,praiseth,0
+427,Quran,13,1,Level 1,faith,neglect,7
+428,Quran,14,2,Level 2,faith,rear,0
+429,Quran,15,2,Level 2,faith,love,0
+430,Quran,16,2,Level 2,faith,seal,0
+431,Quran,17,2,Level 2,faith,prayed,0
+432,Quran,18,2,Level 2,faith,arms,0
+433,Quran,19,1,Level 1,faith,formerly,6
+434,Quran,21,2,Level 2,faith,broken,0
+435,Quran,22,2,Level 2,faith,drove,0
+436,Quran,23,2,Level 2,faith,kebla,0
+437,Quran,24,2,Level 2,faith,failed,0
+438,Quran,25,1,Level 1,faith,children,102
+439,Quran,26,2,Level 2,faith,israel,0
+440,Quran,27,2,Level 2,faith,wealth,0
+441,Quran,28,2,Level 2,faith,consult,0
+442,Quran,29,2,Level 2,faith,sons,0
+443,Quran,30,2,Level 2,faith,partner,0
+444,Mahabharata,0,0,Level 0,faith,faith,16
+445,Mahabharata,1,1,Level 1,faith,earthly,14
+446,Mahabharata,3,2,Level 2,faith,thrive,0
+447,Mahabharata,4,2,Level 2,faith,exhibit,0
+448,Mahabharata,5,2,Level 2,faith,doubteth,0
+449,Mahabharata,6,2,Level 2,faith,despair,0
+450,Mahabharata,7,1,Level 1,faith,therein,18
+451,Mahabharata,9,2,Level 2,faith,raiseth,0
+452,Mahabharata,10,2,Level 2,faith,soil,0
+453,Mahabharata,11,2,Level 2,faith,sweet-scented,0
+454,Mahabharata,12,2,Level 2,faith,liberality,0
+455,Mahabharata,13,1,Level 1,faith,deluded,5
+456,Mahabharata,14,2,Level 2,faith,mock,0
+457,Mahabharata,15,2,Level 2,faith,fools,0
+458,Mahabharata,16,2,Level 2,faith,avoid,0
+459,Mahabharata,17,2,Level 2,faith,avoided,0
+460,Mahabharata,19,1,Level 1,faith,self-restraint,16
+461,Mahabharata,20,2,Level 2,faith,self-control,0
+462,Mahabharata,21,2,Level 2,faith,fortitude,0
+463,Mahabharata,22,2,Level 2,faith,tamas,0
+464,Mahabharata,23,2,Level 2,faith,abstention,0
+465,Mahabharata,24,2,Level 2,faith,forgiveness,0
+466,Mahabharata,25,1,Level 1,faith,mock,6
+467,Mahabharata,27,2,Level 2,faith,frighten,0
+468,Mahabharata,28,2,Level 2,faith,blades,0
+469,Mahabharata,29,2,Level 2,faith,powerless,0
+470,Gospel of Buddha,0,0,Level 0,evil,evil,136
+471,Gospel of Buddha,1,1,Level 1,evil,root,17
+472,Gospel of Buddha,3,2,Level 2,evil,atone,0
+473,Gospel of Buddha,4,2,Level 2,evil,outcome,0
+474,Gospel of Buddha,5,2,Level 2,evil,chinese,0
+475,Gospel of Buddha,6,2,Level 2,evil,minister,0
+476,Gospel of Buddha,7,1,Level 1,evil,outcome,8
+477,Gospel of Buddha,9,2,Level 2,evil,abstaining,0
+478,Gospel of Buddha,10,2,Level 2,evil,surrender,0
+479,Gospel of Buddha,11,2,Level 2,evil,overcome,0
+480,Gospel of Buddha,12,2,Level 2,evil,happiness,0
+481,Gospel of Buddha,13,1,Level 1,evil,destroyed,11
+482,Gospel of Buddha,14,2,Level 2,evil,eradication,0
+483,Gospel of Buddha,15,2,Level 2,evil,rebirth,0
+484,Gospel of Buddha,16,2,Level 2,evil,disease,0
+485,Gospel of Buddha,17,2,Level 2,evil,mirror,0
+486,Gospel of Buddha,18,2,Level 2,evil,tongue,0
+487,Gospel of Buddha,19,1,Level 1,evil,m?ra,36
+488,Gospel of Buddha,20,2,Level 2,evil,daughters,0
+489,Gospel of Buddha,21,2,Level 2,evil,enemy,0
+490,Gospel of Buddha,22,2,Level 2,evil,final,0
+491,Gospel of Buddha,23,2,Level 2,evil,conqueror,0
+492,Gospel of Buddha,25,1,Level 1,evil,extinction,25
+493,Gospel of Buddha,27,2,Level 2,evil,assured,0
+494,Gospel of Buddha,28,2,Level 2,evil,inexhaustible,0
+495,Gospel of Buddha,29,2,Level 2,evil,identity,0
+496,Gospel of Buddha,30,2,Level 2,evil,sake,0
+497,Gita,0,0,Level 0,evil,evil,25
+498,Gita,1,1,Level 1,evil,good,37
+499,Gita,3,2,Level 2,evil,profit,0
+500,Gita,4,2,Level 2,evil,qualities,0
+501,Gita,5,2,Level 2,evil,hour,0
+502,Gita,6,2,Level 2,evil,unmoved,0
+503,Gita,7,1,Level 1,evil,unmoved,5
+504,Gita,8,2,Level 2,evil,bond,0
+505,Gita,9,2,Level 2,evil,moving,0
+506,Gita,10,2,Level 2,evil,space,0
+507,Gita,11,2,Level 2,evil,praise,0
+508,Gita,12,2,Level 2,evil,steadfast,0
+509,Gita,13,1,Level 1,evil,lightly,5
+510,Gita,14,2,Level 2,evil,win,0
+511,Gita,15,2,Level 2,evil,ill,0
+512,Gita,16,2,Level 2,evil,yoga,0
+513,Gita,17,2,Level 2,evil,wrath,0
+514,Gita,18,2,Level 2,evil,lines,0
+515,Gita,19,1,Level 1,evil,praise,7
+516,Gita,20,2,Level 2,evil,dost,0
+517,Gita,21,2,Level 2,evil,glory,0
+518,Gita,23,2,Level 2,evil,countless,0
+519,Gita,24,2,Level 2,evil,honour,0
+520,Gita,25,1,Level 1,evil,ill,7
+521,Gita,26,2,Level 2,evil,receive,0
+522,Gita,27,2,Level 2,evil,firm,0
+523,Gita,29,2,Level 2,evil,tamas,0
+524,Gita,30,2,Level 2,evil,impulse,0
+525,King James Bible,0,0,Level 0,evil,evil,613
+526,King James Bible,1,1,Level 1,evil,good,720
+527,King James Bible,3,2,Level 2,evil,courage,0
+528,King James Bible,4,2,Level 2,evil,bad,0
+529,King James Bible,5,2,Level 2,evil,feareth,0
+530,King James Bible,6,2,Level 2,evil,valiantly,0
+531,King James Bible,7,1,Level 1,evil,mischievous,5
+532,King James Bible,8,2,Level 2,evil,speeches,0
+533,King James Bible,10,2,Level 2,evil,deviseth,0
+534,King James Bible,11,2,Level 2,evil,foolishness,0
+535,King James Bible,12,2,Level 2,evil,device,0
+536,King James Bible,13,1,Level 1,evil,wicked,344
+537,King James Bible,14,2,Level 2,evil,righteous,0
+538,King James Bible,15,2,Level 2,evil,iniquity,0
+539,King James Bible,16,2,Level 2,evil,wickedness,0
+540,King James Bible,17,2,Level 2,evil,ungodly,0
+541,King James Bible,18,2,Level 2,evil,judgment,0
+542,King James Bible,19,1,Level 1,evil,sight,333
+543,King James Bible,20,2,Level 2,evil,favour,0
+544,King James Bible,22,2,Level 2,evil,grace,0
+545,King James Bible,23,2,Level 2,evil,13:33,0
+546,King James Bible,24,2,Level 2,evil,deeper,0
+547,King James Bible,25,1,Level 1,evil,ways,205
+548,King James Bible,26,2,Level 2,evil,walk,0
+549,King James Bible,27,2,Level 2,evil,statutes,0
+550,King James Bible,28,2,Level 2,evil,way,0
+551,King James Bible,29,2,Level 2,evil,commandments,0
+552,King James Bible,30,2,Level 2,evil,walked,0
+553,Quran,0,0,Level 0,evil,evil,182
+554,Quran,1,1,Level 1,evil,speedily,5
+555,Quran,2,2,Level 2,evil,wah,0
+556,Quran,3,2,Level 2,evil,strengthened,0
+557,Quran,4,2,Level 2,evil,position,0
+558,Quran,5,2,Level 2,evil,action,0
+559,Quran,6,2,Level 2,evil,wronged,0
+560,Quran,7,1,Level 1,evil,hardened,5
+561,Quran,8,2,Level 2,evil,transgressor,0
+562,Quran,9,2,Level 2,evil,heretofore,0
+563,Quran,10,2,Level 2,evil,infidel,0
+564,Quran,11,2,Level 2,evil,hearts,0
+565,Quran,12,2,Level 2,evil,humble,0
+566,Quran,13,1,Level 1,evil,good,246
+567,Quran,14,2,Level 2,evil,things,0
+568,Quran,15,2,Level 2,evil,meed,0
+569,Quran,17,2,Level 2,evil,hasty,0
+570,Quran,18,2,Level 2,evil,heritage,0
+571,Quran,19,1,Level 1,evil,deeds,50
+572,Quran,20,2,Level 2,evil,cancel,0
+573,Quran,21,2,Level 2,evil,enjoineth,0
+574,Quran,22,2,Level 2,evil,'neath,0
+575,Quran,23,2,Level 2,evil,devices,0
+576,Quran,24,2,Level 2,evil,boiling,0
+577,Quran,25,1,Level 1,evil,bow,19
+578,Quran,26,2,Level 2,evil,prostrate,0
+579,Quran,27,2,Level 2,evil,adoration,0
+580,Quran,28,2,Level 2,evil,worship,0
+581,Quran,29,2,Level 2,evil,devotion,0
+582,Quran,30,2,Level 2,evil,prostrated,0
+583,Mahabharata,0,0,Level 0,evil,evil,149
+584,Mahabharata,1,1,Level 1,evil,doom,6
+585,Mahabharata,3,2,Level 2,evil,offence,0
+586,Mahabharata,4,2,Level 2,evil,proposed,0
+587,Mahabharata,5,2,Level 2,evil,multiplied,0
+588,Mahabharata,6,2,Level 2,evil,final,0
+589,Mahabharata,7,1,Level 1,evil,vices,11
+590,Mahabharata,8,2,Level 2,evil,addicted,0
+591,Mahabharata,10,2,Level 2,evil,punishments,0
+592,Mahabharata,11,2,Level 2,evil,covetous,0
+593,Mahabharata,12,2,Level 2,evil,meeteth,0
+594,Mahabharata,13,1,Level 1,evil,good,624
+595,Mahabharata,14,2,Level 2,evil,fortune,0
+596,Mahabharata,15,2,Level 2,evil,luck,0
+597,Mahabharata,16,2,Level 2,evil,commended,0
+598,Mahabharata,18,2,Level 2,evil,communion,0
+599,Mahabharata,19,1,Level 1,evil,undoubtedly,12
+600,Mahabharata,20,2,Level 2,evil,shalt,0
+601,Mahabharata,21,2,Level 2,evil,suffer,0
+602,Mahabharata,22,2,Level 2,evil,reverse,0
+603,Mahabharata,24,2,Level 2,evil,unchaste,0
+604,Mahabharata,25,1,Level 1,evil,spirit,90
+605,Mahabharata,26,2,Level 2,evil,supreme,0
+606,Mahabharata,27,2,Level 2,evil,beholds,0
+607,Mahabharata,28,2,Level 2,evil,existence,0
+608,Mahabharata,29,2,Level 2,evil,beatitude,0
+609,Mahabharata,30,2,Level 2,evil,attributes,0
+610,Meditation,0,0,Level 0,evil,evil,44
+611,Meditation,1,1,Level 1,evil,beneficial,5
+612,Meditation,2,2,Level 2,evil,xvi,0
+613,Meditation,3,2,Level 2,evil,weary,0
+614,Meditation,4,2,Level 2,evil,makes,0
+615,Meditation,5,2,Level 2,evil,translates,0
+616,Meditation,6,2,Level 2,evil,xii,0
+617,Meditation,7,1,Level 1,evil,avoid,16
+618,Meditation,8,2,Level 2,evil,compass,0
+619,Meditation,9,2,Level 2,evil,speeches,0
+620,Meditation,10,2,Level 2,evil,pleasures,0
+621,Meditation,11,2,Level 2,evil,propose,0
+622,Meditation,13,1,Level 1,evil,wickedness,14
+623,Meditation,15,2,Level 2,evil,vice,0
+624,Meditation,16,2,Level 2,evil,gentle,0
+625,Meditation,17,2,Level 2,evil,mercy,0
+626,Meditation,18,2,Level 2,evil,ways,0
+627,Meditation,19,1,Level 1,evil,discontented,5
+628,Meditation,20,2,Level 2,evil,succeed,0
+629,Meditation,21,2,Level 2,evil,separate,0
+630,Meditation,22,2,Level 2,evil,grieved,0
+631,Meditation,23,2,Level 2,evil,hope,0
+632,Meditation,24,2,Level 2,evil,frequent,0
+633,Meditation,25,1,Level 1,evil,penetrate,7
+634,Meditation,26,2,Level 2,evil,force,0
+635,Meditation,27,2,Level 2,evil,says,0
+636,Meditation,28,2,Level 2,evil,committed,0
+637,Meditation,29,2,Level 2,evil,applause,0
+638,Meditation,30,2,Level 2,evil,sense,0
+639,King James Bible,0,0,Level 0,money,money,140
+640,King James Bible,1,1,Level 1,money,sacks,10
+641,King James Bible,2,2,Level 2,money,sack,0
+642,King James Bible,4,2,Level 2,money,inn,0
+643,King James Bible,5,2,Level 2,money,immortality,0
+644,King James Bible,6,2,Level 2,money,44:11,0
+645,King James Bible,7,1,Level 1,money,bought,44
+646,King James Bible,9,2,Level 2,money,machpelah,0
+647,King James Bible,10,2,Level 2,money,elimelech,0
+648,King James Bible,11,2,Level 2,money,sold,0
+649,King James Bible,12,2,Level 2,money,field,0
+650,King James Bible,13,1,Level 1,money,sack,12
+651,King James Bible,16,2,Level 2,money,provender,0
+652,King James Bible,18,2,Level 2,money,earring,0
+653,King James Bible,19,1,Level 1,money,buy,56
+654,King James Bible,20,2,Level 2,money,sell,0
+655,King James Bible,21,2,Level 2,money,corn,0
+656,King James Bible,22,2,Level 2,money,food,0
+657,King James Bible,24,2,Level 2,money,25:27,0
+658,King James Bible,25,1,Level 1,money,inn,5
+659,King James Bible,28,2,Level 2,money,colt,0
+660,King James Bible,29,2,Level 2,money,27:27,0
+661,King James Bible,30,2,Level 2,money,tied,0
+662,Quran,0,0,Level 0,money,money,6
+663,Quran,1,1,Level 1,money,repent,11
+664,Quran,2,2,Level 2,money,lenient,0
+665,Quran,4,2,Level 2,money,expend,0
+666,Quran,5,2,Level 2,money,ignorance,0
+667,Quran,6,2,Level 2,money,cancel,0
+668,Quran,7,1,Level 1,money,care,6
+669,Quran,8,2,Level 2,money,families,0
+670,Quran,9,2,Level 2,money,measure,0
+671,Quran,11,2,Level 2,money,zacharias,0
+672,Quran,12,2,Level 2,money,lane,0
+673,Quran,13,1,Level 1,money,keys,7
+674,Quran,14,2,Level 2,money,behaved,0
+675,Quran,15,2,Level 2,money,bearing,0
+676,Quran,16,2,Level 2,money,broke,0
+677,Quran,17,2,Level 2,money,korah,0
+678,Quran,18,2,Level 2,money,burdened,0
+679,Quran,19,1,Level 1,money,camels,7
+680,Quran,20,2,Level 2,money,large,0
+681,Quran,21,2,Level 2,money,xxv,0
+682,Quran,22,2,Level 2,money,koreisch,0
+683,Quran,23,2,Level 2,money,obviously,0
+684,Quran,24,2,Level 2,money,pair,0
+685,Quran,25,1,Level 1,money,aid,16
+686,Quran,26,2,Level 2,money,built,0
+687,Quran,28,2,Level 2,money,praised,0
+688,Quran,29,2,Level 2,money,succour,0
+689,Quran,30,2,Level 2,money,treaty,0
+690,Mahabharata,0,0,Level 0,money,money,9
+691,Mahabharata,1,1,Level 1,money,boast,10
+692,Mahabharata,2,2,Level 2,money,extent,0
+693,Mahabharata,3,2,Level 2,money,suited,0
+694,Mahabharata,5,2,Level 2,money,givest,0
+695,Mahabharata,6,2,Level 2,money,warding,0
+696,Mahabharata,7,1,Level 1,money,sadasyas,21
+697,Mahabharata,8,2,Level 2,money,ritwiks,0
+698,Mahabharata,9,2,Level 2,money,permission.,0
+699,Mahabharata,10,2,Level 2,money,grandsires,0
+700,Mahabharata,11,2,Level 2,money,deserves,0
+701,Mahabharata,12,2,Level 2,money,compound,0
+702,Mahabharata,13,1,Level 1,money,read,16
+703,Mahabharata,14,2,Level 2,money,recited,0
+704,Mahabharata,15,2,Level 2,money,vajapeya,0
+705,Mahabharata,16,2,Level 2,money,puranas,0
+706,Mahabharata,17,2,Level 2,money,repeat,0
+707,Mahabharata,18,2,Level 2,money,invocation,0
+708,Mahabharata,19,1,Level 1,money,crystal,16
+709,Mahabharata,20,2,Level 2,money,mistook,0
+710,Mahabharata,21,2,Level 2,money,mistaking,0
+711,Mahabharata,22,2,Level 2,money,water,0
+712,Mahabharata,23,2,Level 2,money,bowers,0
+713,Mahabharata,24,2,Level 2,money,occupying,0
+714,Mahabharata,25,1,Level 1,money,measures,18
+715,Mahabharata,26,2,Level 2,money,charming,0
+716,Mahabharata,27,2,Level 2,money,appliances,0
+717,Mahabharata,28,2,Level 2,money,ere,0
+718,Mahabharata,29,2,Level 2,money,trusted,0
+719,Mahabharata,30,2,Level 2,money,consonant,0
+720,Gospel of Buddha,0,0,Level 0,hell,hell,11
+721,Gospel of Buddha,1,1,Level 1,hell,unknown,6
+722,Gospel of Buddha,2,2,Level 2,hell,town,0
+723,Gospel of Buddha,3,2,Level 2,hell,potter,0
+724,Gospel of Buddha,4,2,Level 2,hell,k?si,0
+725,Gospel of Buddha,5,2,Level 2,hell,dwelling,0
+726,Gospel of Buddha,7,1,Level 1,hell,reborn,13
+727,Gospel of Buddha,9,2,Level 2,hell,dear,0
+728,Gospel of Buddha,10,2,Level 2,hell,main,0
+729,Gospel of Buddha,11,2,Level 2,hell,farewell,0
+730,Gospel of Buddha,12,2,Level 2,hell,worlds,0
+731,Gospel of Buddha,13,1,Level 1,hell,invocations,5
+732,Gospel of Buddha,14,2,Level 2,hell,prayers,0
+733,Gospel of Buddha,15,2,Level 2,hell,idle,0
+734,Gospel of Buddha,16,2,Level 2,hell,sacrifices,0
+735,Gospel of Buddha,17,2,Level 2,hell,talk,0
+736,Gospel of Buddha,18,2,Level 2,hell,xlviii,0
+737,Gospel of Buddha,19,1,Level 1,hell,worlds,6
+738,Gospel of Buddha,20,2,Level 2,hell,laws,0
+739,Gospel of Buddha,21,2,Level 2,hell,compound,0
+740,Gospel of Buddha,23,2,Level 2,hell,break,0
+741,Gospel of Buddha,24,2,Level 2,hell,constitute,0
+742,Gospel of Buddha,25,1,Level 1,hell,angry,5
+743,Gospel of Buddha,26,2,Level 2,hell,bears,0
+744,Gospel of Buddha,27,2,Level 2,hell,beg,0
+745,Gospel of Buddha,28,2,Level 2,hell,outcast,0
+746,Gospel of Buddha,29,2,Level 2,hell,led,0
+747,Gospel of Buddha,30,2,Level 2,hell,residence,0
+748,King James Bible,0,0,Level 0,hell,hell,54
+749,King James Bible,1,1,Level 1,hell,snares,15
+750,King James Bible,3,2,Level 2,hell,wicked,0
+751,King James Bible,4,2,Level 2,hell,thorns,0
+752,King James Bible,5,2,Level 2,hell,murder,0
+753,King James Bible,6,2,Level 2,hell,evil,0
+754,King James Bible,7,1,Level 1,hell,glittering,6
+755,King James Bible,8,2,Level 2,hell,furbished,0
+756,King James Bible,9,2,Level 2,hell,arrows,0
+757,King James Bible,10,2,Level 2,hell,sword,0
+758,King James Bible,12,2,Level 2,hell,spear,0
+759,King James Bible,13,1,Level 1,hell,sorrows,22
+760,King James Bible,14,2,Level 2,hell,pain,0
+761,King James Bible,15,2,Level 2,hell,compassed,0
+762,King James Bible,16,2,Level 2,hell,travail,0
+763,King James Bible,17,2,Level 2,hell,pangs,0
+764,King James Bible,19,1,Level 1,hell,death,372
+765,King James Bible,20,2,Level 2,hell,prevented,0
+766,King James Bible,21,2,Level 2,hell,life,0
+767,King James Bible,22,2,Level 2,hell,soul,0
+768,King James Bible,24,2,Level 2,hell,grave,0
+769,King James Bible,25,1,Level 1,hell,deeper,9
+770,King James Bible,26,2,Level 2,hell,skin,0
+771,King James Bible,27,2,Level 2,hell,scall,0
+772,King James Bible,28,2,Level 2,hell,reddish,0
+773,King James Bible,29,2,Level 2,hell,pronounce,0
+774,King James Bible,30,2,Level 2,hell,scab,0
+775,Quran,0,0,Level 0,hell,hell,111
+776,Quran,1,1,Level 1,hell,thither,12
+777,Quran,2,2,Level 2,hell,journey,0
+778,Quran,3,2,Level 2,hell,wretched,0
+779,Quran,4,2,Level 2,hell,burned,0
+780,Quran,5,2,Level 2,hell,sie,0
+781,Quran,6,2,Level 2,hell,liii,0
+782,Quran,7,1,Level 1,hell,fire,160
+783,Quran,9,2,Level 2,hell,flaming,0
+784,Quran,10,2,Level 2,hell,torment,0
+785,Quran,11,2,Level 2,hell,molten,0
+786,Quran,13,1,Level 1,hell,wretched,29
+787,Quran,18,2,Level 2,hell,couch,0
+788,Quran,19,1,Level 1,hell,haughty,6
+789,Quran,20,2,Level 2,hell,loved,0
+790,Quran,21,2,Level 2,hell,behaved,0
+791,Quran,22,2,Level 2,hell,ones,0
+792,Quran,23,2,Level 2,hell,proudly,0
+793,Quran,25,1,Level 1,hell,couch,6
+794,Quran,26,2,Level 2,hell,pleasant,0
+795,Quran,27,2,Level 2,hell,lit.,0
+796,Quran,28,2,Level 2,hell,parable,0
+797,Quran,30,2,Level 2,hell,xxxv,0
+798,Mahabharata,0,0,Level 0,hell,hell,43
+799,Mahabharata,1,1,Level 1,hell,everlasting,17
+800,Mahabharata,2,2,Level 2,hell,defects,0
+801,Mahabharata,4,2,Level 2,hell,invariably,0
+802,Mahabharata,5,2,Level 2,hell,regions,0
+803,Mahabharata,6,2,Level 2,hell,bliss,0
+804,Mahabharata,7,1,Level 1,hell,sinketh,8
+805,Mahabharata,8,2,Level 2,hell,ascendeth,0
+806,Mahabharata,10,2,Level 2,hell,stupefied,0
+807,Mahabharata,11,2,Level 2,hell,twigs,0
+808,Mahabharata,12,2,Level 2,hell,meeteth,0
+809,Mahabharata,13,1,Level 1,hell,heaven,399
+810,Mahabharata,14,2,Level 2,hell,dwellers,0
+811,Mahabharata,17,2,Level 2,hell,earth,0
+812,Mahabharata,18,2,Level 2,hell,firmament,0
+813,Mahabharata,19,1,Level 1,hell,pit,9
+814,Mahabharata,20,2,Level 2,hell,saving,0
+815,Mahabharata,21,2,Level 2,hell,downwards,0
+816,Mahabharata,23,2,Level 2,hell,nether,0
+817,Mahabharata,24,2,Level 2,hell,ancestors,0
+818,Mahabharata,25,1,Level 1,hell,bondage,8
+819,Mahabharata,26,2,Level 2,hell,relieved,0
+820,Mahabharata,27,2,Level 2,hell,kadru,0
+821,Mahabharata,28,2,Level 2,hell,wager,0
+822,Mahabharata,29,2,Level 2,hell,sires,0
+823,Mahabharata,30,2,Level 2,hell,slavery,0
+824,Gospel of Buddha,0,0,Level 0,heaven,heaven,30
+825,Gospel of Buddha,1,1,Level 1,heaven,mirage,5
+826,Gospel of Buddha,2,2,Level 2,heaven,hope,0
+827,Gospel of Buddha,3,2,Level 2,heaven,a.,0
+828,Gospel of Buddha,5,2,Level 2,heaven,compounds,0
+829,Gospel of Buddha,6,2,Level 2,heaven,begets,0
+830,Gospel of Buddha,7,1,Level 1,heaven,redounding,5
+831,Gospel of Buddha,8,2,Level 2,heaven,smith,0
+832,Gospel of Buddha,9,2,Level 2,heaven,abstaining,0
+833,Gospel of Buddha,10,2,Level 2,heaven,chunda,0
+834,Gospel of Buddha,11,2,Level 2,heaven,dp,0
+835,Gospel of Buddha,12,2,Level 2,heaven,inheritance,0
+836,Gospel of Buddha,13,1,Level 1,heaven,hope,9
+837,Gospel of Buddha,15,2,Level 2,heaven,energy,0
+838,Gospel of Buddha,16,2,Level 2,heaven,attaining,0
+839,Gospel of Buddha,18,2,Level 2,heaven,thirsty,0
+840,Gospel of Buddha,19,1,Level 1,heaven,m?y?-dev?,5
+841,Gospel of Buddha,20,2,Level 2,heaven,sister,0
+842,Gospel of Buddha,21,2,Level 2,heaven,fragrant,0
+843,Gospel of Buddha,22,2,Level 2,heaven,beautiful,0
+844,Gospel of Buddha,23,2,Level 2,heaven,ea,0
+845,Gospel of Buddha,24,2,Level 2,heaven,dwelt,0
+846,Gospel of Buddha,25,1,Level 1,heaven,exist,9
+847,Gospel of Buddha,27,2,Level 2,heaven,forbidden,0
+848,Gospel of Buddha,28,2,Level 2,heaven,anglicised,0
+849,Gospel of Buddha,29,2,Level 2,heaven,correct,0
+850,Gospel of Buddha,30,2,Level 2,heaven,space,0
+851,Gita,0,0,Level 0,heaven,heaven,18
+852,Gita,1,1,Level 1,heaven,utmost,9
+853,Gita,2,2,Level 2,heaven,attain,0
+854,Gita,3,2,Level 2,heaven,ends,0
+855,Gita,4,2,Level 2,heaven,last,0
+856,Gita,5,2,Level 2,heaven,taking,0
+857,Gita,6,2,Level 2,heaven,whole,0
+858,Gita,7,1,Level 1,heaven,lords,5
+859,Gita,8,2,Level 2,heaven,bright,0
+860,Gita,9,2,Level 2,heaven,bhishma,0
+861,Gita,10,2,Level 2,heaven,burning,0
+862,Gita,11,2,Level 2,heaven,moon,0
+863,Gita,12,2,Level 2,heaven,subtle,0
+864,Gita,13,1,Level 1,heaven,burning,8
+865,Gita,16,2,Level 2,heaven,blood,0
+866,Gita,18,2,Level 2,heaven,beams,0
+867,Gita,19,1,Level 1,heaven,earth,24
+868,Gita,22,2,Level 2,heaven,thousand,0
+869,Gita,23,2,Level 2,heaven,bound,0
+870,Gita,24,2,Level 2,heaven,nowhere,0
+871,Gita,25,1,Level 1,heaven,name,6
+872,Gita,26,2,Level 2,heaven,four,0
+873,Gita,27,2,Level 2,heaven,sight,0
+874,Gita,28,2,Level 2,heaven,holding,0
+875,Gita,29,2,Level 2,heaven,dread,0
+876,Gita,30,2,Level 2,heaven,higher,0
+877,King James Bible,0,0,Level 0,heaven,heaven,582
+878,King James Bible,1,1,Level 1,heaven,earth,987
+879,King James Bible,2,2,Level 2,heaven,heavens,0
+880,King James Bible,4,2,Level 2,heaven,ends,0
+881,King James Bible,5,2,Level 2,heaven,kingdoms,0
+882,King James Bible,6,2,Level 2,heaven,waters,0
+883,King James Bible,7,1,Level 1,heaven,angels,94
+884,King James Bible,9,2,Level 2,heaven,world,0
+885,King James Bible,10,2,Level 2,heaven,seemed,0
+886,King James Bible,11,2,Level 2,heaven,devil,0
+887,King James Bible,12,2,Level 2,heaven,lights,0
+888,King James Bible,13,1,Level 1,heaven,heavens,134
+889,King James Bible,16,2,Level 2,heaven,clouds,0
+890,King James Bible,17,2,Level 2,heaven,skies,0
+891,King James Bible,18,2,Level 2,heaven,faithfulness,0
+892,King James Bible,19,1,Level 1,heaven,stars,51
+893,King James Bible,20,2,Level 2,heaven,moon,0
+894,King James Bible,21,2,Level 2,heaven,sun,0
+895,King James Bible,22,2,Level 2,heaven,2:31,0
+896,King James Bible,25,1,Level 1,heaven,fowls,55
+897,King James Bible,26,2,Level 2,heaven,air,0
+898,King James Bible,27,2,Level 2,heaven,beasts,0
+899,King James Bible,28,2,Level 2,heaven,fowl,0
+900,King James Bible,29,2,Level 2,heaven,carcases,0
+901,King James Bible,30,2,Level 2,heaven,kind,0
+902,Quran,0,0,Level 0,heaven,heaven,130
+903,Quran,1,1,Level 1,heaven,earth,411
+904,Quran,2,2,Level 2,heaven,heavens,0
+905,Quran,4,2,Level 2,heaven,god,0
+906,Quran,5,2,Level 2,heaven,lord,0
+907,Quran,6,2,Level 2,heaven,praiseth,0
+908,Quran,7,1,Level 1,heaven,heavens,195
+909,Quran,11,2,Level 2,heaven,mounted,0
+910,Quran,12,2,Level 2,heaven,six,0
+911,Quran,13,1,Level 1,heaven,herbs,5
+912,Quran,14,2,Level 2,heaven,grapes,0
+913,Quran,15,2,Level 2,heaven,various,0
+914,Quran,16,2,Level 2,heaven,food,0
+915,Quran,17,2,Level 2,heaven,bend,0
+916,Quran,18,2,Level 2,heaven,rained,0
+917,Quran,19,1,Level 1,heaven,swiftly,6
+918,Quran,20,2,Level 2,heaven,81,0
+919,Quran,21,2,Level 2,heaven,move,0
+920,Quran,22,2,Level 2,heaven,gathering,0
+921,Quran,23,2,Level 2,heaven,needs,0
+922,Quran,24,2,Level 2,heaven,stars,0
+923,Quran,25,1,Level 1,heaven,passeth,5
+924,Quran,26,2,Level 2,heaven,rebellious,0
+925,Quran,27,2,Level 2,heaven,standing,0
+926,Quran,28,2,Level 2,heaven,gates,0
+927,Quran,29,2,Level 2,heaven,every,0
+928,Quran,30,2,Level 2,heaven,persian,0
+929,Mahabharata,0,0,Level 0,heaven,heaven,399
+930,Mahabharata,1,1,Level 1,heaven,dwellers,57
+931,Mahabharata,3,2,Level 2,heaven,heaven.,0
+932,Mahabharata,4,2,Level 2,heaven,nandana,0
+933,Mahabharata,5,2,Level 2,heaven,aswasena,0
+934,Mahabharata,6,2,Level 2,heaven,attendance,0
+935,Mahabharata,7,1,Level 1,heaven,regions,255
+936,Mahabharata,9,2,Level 2,heaven,attain,0
+937,Mahabharata,10,2,Level 2,heaven,felicity,0
+938,Mahabharata,11,2,Level 2,heaven,region,0
+939,Mahabharata,12,2,Level 2,heaven,bliss,0
+940,Mahabharata,13,1,Level 1,heaven,hell,43
+941,Mahabharata,14,2,Level 2,heaven,everlasting,0
+942,Mahabharata,15,2,Level 2,heaven,sinketh,0
+943,Mahabharata,17,2,Level 2,heaven,pit,0
+944,Mahabharata,18,2,Level 2,heaven,bondage,0
+945,Mahabharata,19,1,Level 1,heaven,earth,963
+946,Mahabharata,20,2,Level 2,heaven,whole,0
+947,Mahabharata,21,2,Level 2,heaven,belt,0
+948,Mahabharata,22,2,Level 2,heaven,entire,0
+949,Mahabharata,23,2,Level 2,heaven,asunder,0
+950,Mahabharata,25,1,Level 1,heaven,firmament,92
+951,Mahabharata,26,2,Level 2,heaven,stars,0
+952,Mahabharata,27,2,Level 2,heaven,planets,0
+953,Mahabharata,28,2,Level 2,heaven,studded,0
+954,Mahabharata,29,2,Level 2,heaven,sky,0
+955,Mahabharata,30,2,Level 2,heaven,clouds,0
+956,Gospel of Buddha,0,0,Level 0,salvation,salvation,55
+957,Gospel of Buddha,1,1,Level 1,salvation,assistance,6
+958,Gospel of Buddha,2,2,Level 2,salvation,need,0
+959,Gospel of Buddha,3,2,Level 2,salvation,fast,0
+960,Gospel of Buddha,5,2,Level 2,salvation,tranquillity,0
+961,Gospel of Buddha,6,2,Level 2,salvation,distress,0
+962,Gospel of Buddha,7,1,Level 1,salvation,assured,6
+963,Gospel of Buddha,8,2,Level 2,salvation,final,0
+964,Gospel of Buddha,9,2,Level 2,salvation,sin,0
+965,Gospel of Buddha,10,2,Level 2,salvation,extinction,0
+966,Gospel of Buddha,12,2,Level 2,salvation,attained,0
+967,Gospel of Buddha,13,1,Level 1,salvation,speaking,7
+968,Gospel of Buddha,14,2,Level 2,salvation,altogether,0
+969,Gospel of Buddha,15,2,Level 2,salvation,opposite,0
+970,Gospel of Buddha,16,2,Level 2,salvation,way,0
+971,Gospel of Buddha,17,2,Level 2,salvation,door,0
+972,Gospel of Buddha,18,2,Level 2,salvation,oneself,0
+973,Gospel of Buddha,19,1,Level 1,salvation,locality,6
+974,Gospel of Buddha,20,2,Level 2,salvation,harvest,0
+975,Gospel of Buddha,21,2,Level 2,salvation,dwelling-place,0
+976,Gospel of Buddha,22,2,Level 2,salvation,nirv?na,0
+977,Gospel of Buddha,23,2,Level 2,salvation,speech,0
+978,Gospel of Buddha,24,2,Level 2,salvation,views,0
+979,Gospel of Buddha,25,1,Level 1,salvation,maker,9
+980,Gospel of Buddha,26,2,Level 2,salvation,absolute,0
+981,Gospel of Buddha,27,2,Level 2,salvation,veil,0
+982,Gospel of Buddha,28,2,Level 2,salvation,i?vara,0
+983,Gospel of Buddha,29,2,Level 2,salvation,m?y?,0
+984,Gospel of Buddha,30,2,Level 2,salvation,eradication,0
+985,King James Bible,0,0,Level 0,salvation,salvation,164
+986,King James Bible,1,1,Level 1,salvation,righteousness,305
+987,King James Bible,2,2,Level 2,salvation,judgment,0
+988,King James Bible,4,2,Level 2,salvation,truth,0
+989,King James Bible,5,2,Level 2,salvation,equity,0
+990,King James Bible,6,2,Level 2,salvation,deceitful,0
+991,King James Bible,7,1,Level 1,salvation,god,4467
+992,King James Bible,8,2,Level 2,salvation,lord,0
+993,King James Bible,11,2,Level 2,salvation,christ,0
+994,King James Bible,12,2,Level 2,salvation,spirit,0
+995,King James Bible,13,1,Level 1,salvation,shield,45
+996,King James Bible,14,2,Level 2,salvation,buckler,0
+997,King James Bible,15,2,Level 2,salvation,helmet,0
+998,King James Bible,17,2,Level 2,salvation,rereward,0
+999,King James Bible,18,2,Level 2,salvation,sheath,0
+1000,King James Bible,19,1,Level 1,salvation,hope,129
+1001,King James Bible,20,2,Level 2,salvation,faith,0
+1002,King James Bible,23,2,Level 2,salvation,patience,0
+1003,King James Bible,24,2,Level 2,salvation,promise,0
+1004,King James Bible,25,1,Level 1,salvation,strength,242
+1005,King James Bible,27,2,Level 2,salvation,arm,0
+1006,King James Bible,28,2,Level 2,salvation,mightily,0
+1007,King James Bible,29,2,Level 2,salvation,comeliness,0
+1008,King James Bible,30,2,Level 2,salvation,help,0
+1009,Mahabharata,0,0,Level 0,salvation,salvation,52
+1010,Mahabharata,1,1,Level 1,salvation,indication,5
+1011,Mahabharata,2,2,Level 2,salvation,chance,0
+1012,Mahabharata,3,2,Level 2,salvation,identity,0
+1013,Mahabharata,5,2,Level 2,salvation,mole,0
+1014,Mahabharata,6,2,Level 2,salvation,spontaneously,0
+1015,Mahabharata,7,1,Level 1,salvation,supreme,116
+1016,Mahabharata,8,2,Level 2,salvation,spirit,0
+1017,Mahabharata,9,2,Level 2,salvation,brahma,0
+1018,Mahabharata,10,2,Level 2,salvation,deity,0
+1019,Mahabharata,11,2,Level 2,salvation,soul,0
+1020,Mahabharata,12,2,Level 2,salvation,lord,0
+1021,Mahabharata,13,1,Level 1,salvation,religion,106
+1022,Mahabharata,14,2,Level 2,salvation,profit,0
+1023,Mahabharata,15,2,Level 2,salvation,virtue,0
+1024,Mahabharata,16,2,Level 2,salvation,doubteth,0
+1025,Mahabharata,17,2,Level 2,salvation,precepts,0
+1026,Mahabharata,18,2,Level 2,salvation,true,0
+1027,Mahabharata,19,1,Level 1,salvation,sankhya,6
+1028,Mahabharata,20,2,Level 2,salvation,philosophy,0
+1029,Mahabharata,21,2,Level 2,salvation,system,0
+1030,Mahabharata,22,2,Level 2,salvation,anuvinda,0
+1031,Mahabharata,23,2,Level 2,salvation,mystery,0
+1032,Mahabharata,24,2,Level 2,salvation,taught,0
+1033,Mahabharata,25,1,Level 1,salvation,identity,7
+1034,Mahabharata,26,2,Level 2,salvation,jointly,0
+1035,Mahabharata,28,2,Level 2,salvation,discovereth,0
+1036,Mahabharata,30,2,Level 2,salvation,celebrity,0
+1037,Gospel of Buddha,0,0,Level 0,hate,hate,8
+1038,Gospel of Buddha,1,1,Level 1,hate,happily,6
+1039,Gospel of Buddha,2,2,Level 2,hate,greedy,0
+1040,Gospel of Buddha,4,2,Level 2,hate,ailments,0
+1041,Gospel of Buddha,5,2,Level 2,hate,rather,0
+1042,Gospel of Buddha,6,2,Level 2,hate,live,0
+1043,Gospel of Buddha,7,1,Level 1,hate,greedy,7
+1044,Gospel of Buddha,10,2,Level 2,hate,trying,0
+1045,Gospel of Buddha,11,2,Level 2,hate,suffered,0
+1046,Gospel of Buddha,12,2,Level 2,hate,generations,0
+1047,Gospel of Buddha,13,1,Level 1,hate,tranquillity,8
+1048,Gospel of Buddha,14,2,Level 2,hate,second,0
+1049,Gospel of Buddha,15,2,Level 2,hate,perfect,0
+1050,Gospel of Buddha,17,2,Level 2,hate,retire,0
+1051,Gospel of Buddha,18,2,Level 2,hate,assistance,0
+1052,Gospel of Buddha,19,1,Level 1,hate,standing,9
+1053,Gospel of Buddha,20,2,Level 2,hate,walking,0
+1054,Gospel of Buddha,21,2,Level 2,hate,drinking,0
+1055,Gospel of Buddha,22,2,Level 2,hate,sitting,0
+1056,Gospel of Buddha,23,2,Level 2,hate,steadfast,0
+1057,Gospel of Buddha,24,2,Level 2,hate,cripple,0
+1058,Gospel of Buddha,25,1,Level 1,hate,reasoning,6
+1059,Gospel of Buddha,26,2,Level 2,hate,ceases,0
+1060,Gospel of Buddha,27,2,Level 2,hate,sensations,0
+1061,Gospel of Buddha,28,2,Level 2,hate,ideas,0
+1062,Gospel of Buddha,29,2,Level 2,hate,craving,0
+1063,Gospel of Buddha,30,2,Level 2,hate,cease,0
+1064,King James Bible,0,0,Level 0,hate,hate,87
+1065,King James Bible,1,1,Level 1,hate,wrongfully,7
+1066,King James Bible,3,2,Level 2,hate,esteem,0
+1067,King James Bible,4,2,Level 2,hate,widow,0
+1068,King James Bible,5,2,Level 2,hate,enemies,0
+1069,King James Bible,6,2,Level 2,hate,comfort,0
+1070,King James Bible,7,1,Level 1,hate,love,311
+1071,King James Bible,8,2,Level 2,hate,abound,0
+1072,King James Bible,10,2,Level 2,hate,commandments,0
+1073,King James Bible,11,2,Level 2,hate,keepeth,0
+1074,King James Bible,12,2,Level 2,hate,patience,0
+1075,King James Bible,13,1,Level 1,hate,abhor,19
+1076,King James Bible,14,2,Level 2,hate,pervert,0
+1077,King James Bible,15,2,Level 2,hate,destroy,0
+1078,King James Bible,17,2,Level 2,hate,defile,0
+1079,King James Bible,18,2,Level 2,hate,delighteth,0
+1080,King James Bible,19,1,Level 1,hate,enemies,269
+1081,King James Bible,20,2,Level 2,hate,enemy,0
+1082,King James Bible,21,2,Level 2,hate,mine,0
+1083,King James Bible,22,2,Level 2,hate,thine,0
+1084,King James Bible,23,2,Level 2,hate,repay,0
+1085,King James Bible,24,2,Level 2,hate,hand,0
+1086,King James Bible,25,1,Level 1,hate,hatest,6
+1087,King James Bible,26,2,Level 2,hate,lovest,0
+1088,King James Bible,27,2,Level 2,hate,throughly,0
+1089,King James Bible,28,2,Level 2,hate,alienated,0
+1090,King James Bible,29,2,Level 2,hate,requite,0
+1091,Meditation,0,0,Level 0,hate,hate,5
+1092,Meditation,1,1,Level 1,hate,modesty,10
+1093,Meditation,3,2,Level 2,hate,enjoy,0
+1094,Meditation,4,2,Level 2,hate,requireth,0
+1095,Meditation,5,2,Level 2,hate,committed,0
+1096,Meditation,6,2,Level 2,hate,daily,0
+1097,Meditation,7,1,Level 1,hate,error,12
+1098,Meditation,9,2,Level 2,hate,gentle,0
+1099,Meditation,10,2,Level 2,hate,ignorance,0
+1100,Meditation,11,2,Level 2,hate,charitable,0
+1101,Meditation,12,2,Level 2,hate,transgress,0
+1102,Meditation,13,1,Level 1,hate,lust,10
+1103,Meditation,14,2,Level 2,hate,sins,0
+1104,Meditation,17,2,Level 2,hate,secret,0
+1105,Meditation,18,2,Level 2,hate,lie,0
+1106,Meditation,19,1,Level 1,hate,wills,8
+1107,Meditation,20,2,Level 2,hate,offend,0
+1108,Meditation,22,2,Level 2,hate,depend,0
+1109,Meditation,24,2,Level 2,hate,sin,0
+1110,Meditation,25,1,Level 1,hate,possible,22
+1111,Meditation,27,2,Level 2,hate,seeking,0
+1112,Meditation,28,2,Level 2,hate,begun,0
+1113,Meditation,29,2,Level 2,hate,imagination,0
+1114,Meditation,30,2,Level 2,hate,certainly,0
